@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Controla</string>
+    <string name="forgot_password">¿Has olvidado tu contraseña?</string>
+    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="don_t_have_an_account_yet_signup_now">¿Aún no tienes una cuenta? ¡Regístrate ahora!</string>
+
+    <string name="navigation_drawer_open">Abrir cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar cajón de navegación</string>
+    <string name="expense_manager">Gerente de gastos</string>
+
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="please_login_to_your_account">Por favor, ingrese a su cuenta</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Clave</string>
+    <string name="login">Acceso</string>
+    <string name="create_account">Crear una cuenta</string>
+
+    <string-array name="typesOfTransactions">
+        <item>Alimento</item>
+        <item>Vida social</item>
+        <item>Transportación</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+</resources>
